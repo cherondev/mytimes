@@ -27,12 +27,13 @@ header {
 header nav {
   text-align: right;
   position: fixed;
+  right: 30px;
   width: 100%;
   z-index: 5;
 }
 
 header nav span {
-  padding-right: 50px;
+  padding-right: 20px;
 }
 
 a {
